@@ -14,7 +14,11 @@ Option to use
 
 Based on code from:  
 http://reprap.org/wiki/Temperature_Sensor_v1.1#Upload_firmware_to_Arduino
+
 http://reprap.org/wiki/Toaster_Oven_Reflow_Technique
+
 https://github.com/adafruit/MAX6675-library
+
 http://playground.arduino.cc/Learning/OneWire
+
 https://github.com/olikraus/u8glib/wiki
